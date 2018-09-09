@@ -6,7 +6,7 @@ It supports data structures such as strings, hashes, lists, sets, sorted sets, e
 
 # Redis Database
 
-    For the Database, this example usesHashOperations. It is a redis construct, which can be used for reds hash operations. 
+    For the Database, this example uses HashOperations. It is a redis construct, which can be used for reds hash operations. 
     If you would like to see what are the different operations provided by spring data redis, 
     please a look at the spring data redis documentation
 
