@@ -4,6 +4,10 @@ Redis is an open source in-memory data structure store, used as a database, cach
 
 It supports data structures such as strings, hashes, lists, sets, sorted sets, etc
 
+# Prerequisites
+
+    Install Redis and Start Redis Server(https://redis.io/download)
+
 # Redis Database
 
     For the Database, this example uses HashOperations. It is a redis construct, which can be used for reds hash operations. 
